@@ -3,7 +3,7 @@
 
 #the code doesnt make sense, just the algorithm for now
 
-Message="https://github.com/ieWamnOsIsihT/ConnectivityCipher/blob/main/Main"
+Message="Gur ynfg guvat V xabj vf gung ur unq gvzr gb ybt ba n qvfpbeq freire : . "
 
 DecodedMessage=decode(Message)
 Print(DecodedMessage)
