@@ -3,7 +3,7 @@
 
 #the code doesnt make sense, just the algorithm for now
 
-Message="14 28 25 60 2C 21 33 34 60 34 28 29 2E 27 60 09 60 2B 2E 2F 37 60 29 33 60 34 28 21 34 60 28 25 60 28 21 24 60 34 29 2D 25 60 34 2F 60 2C 2F 27 60 2F 2E 60 21 60 33 29 34 25 60 23 21 2C 2C 25 24 60 29 2E 34 25 2D 2F 2C 6E 23 2F 2D"
+Message="https://github.com/ieWamnOsIsihT/ConnectivityCipher/blob/main/Main"
 
 DecodedMessage=decode(Message)
 Print(DecodedMessage)
