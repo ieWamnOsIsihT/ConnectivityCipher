@@ -3,7 +3,7 @@
 
 #the code doesnt make sense, just the algorithm for now
 
-Message="Gur ynfg guvat V xabj vf gung ur unq gvzr gb ybt ba n qvfpbeq freire : . "
+Message="Lbh fubhyq whfg wbva guvf Qvfpbeq : uggcf://qvfpbeq.tt/tutfO6AW"
 
 DecodedMessage=decode(Message)
 Print(DecodedMessage)
